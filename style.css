@@ -77,3 +77,10 @@ span{
 footer p{
   text-align: center;
 }
+.half-width p{
+  text-align: justify;
+}
+.ex-area p{
+  text-align: justify;
+  padding-right: 30px;
+}
